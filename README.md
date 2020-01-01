@@ -1,4 +1,4 @@
-<img src="https://github.com/Robonchu/PythonDataGenerator/blob/master/imgs/big_data.jpg?raw=true" align="right" width="400" alt="header pic"/>
+<img src="https://github.com/Robonchu/PythonDataGenerator/blob/master/imgs/big_data.jpg?raw=true" align="right" width="350" alt="header pic"/>
 
 # PythonDataGenerator
 
